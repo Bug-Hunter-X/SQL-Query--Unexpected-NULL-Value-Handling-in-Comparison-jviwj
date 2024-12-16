@@ -1,0 +1,3 @@
+# SQL Query: Unexpected NULL Value Handling in Comparison
+
+This repository demonstrates a common SQL error related to handling `NULL` values in comparison operations. The provided SQL query aims to retrieve employees from department 10 with salaries exceeding 100000.  However, the query incorrectly excludes employees with `NULL` salaries. The solution illustrates a way to handle `NULL` values effectively in similar queries.
